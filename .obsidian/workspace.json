@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "75b8a2370a766245",
+    "type": "split",
+    "children": [
+      {
+        "id": "3228626b99bfad16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "052d782215766eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зачет по матстату.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad59fd4f55c1dc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7e17d934480f25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa367fee4cea553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eb7d734b4a5fa17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d95ae2db15af8525",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "c22ba43f834c96da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a116e21492306815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f279e6dd8e38d8f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Зачет по матстату.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d4ba175a6d19e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Зачет по матстату.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbbdfad85d82c378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a4d6cb7959f6566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Зачет по матстату.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "052d782215766eeb",
+  "lastOpenFiles": [
+    "images/4.4.png",
+    "Зачет по матстату.md",
+    "images/4.3.png",
+    "images/4.2.png",
+    "images/4.1.png",
+    "images/3.4.png",
+    "images/3.3.png",
+    "images/3.1.png",
+    "images/2.3.2.png",
+    "images/2.3.1.png",
+    "images/2.1.1.png",
+    "images",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
